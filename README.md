@@ -52,7 +52,7 @@ python whatwaff.py
     GitHub: https://github.com/SVelizDonoso
 
     
-usage: whatwaf.py [-h] [-u URL] [-hs] [-l] [-t] [--version]
+usage: whatwaff.py [-h] [-u URL] [-hs] [-l] [-t] [--version]
 
 optional arguments:
   -h, --help         show this help message and exit
@@ -199,7 +199,7 @@ python whatwaff.py -u=https://www.amazont.com --httpsec
 ```
 
 ```sh
-python whatwaf.py -u https://www.amazon.com --httpsec --tracert
+python whatwaff.py -u https://www.amazon.com --httpsec --tracert
 
 
 	
